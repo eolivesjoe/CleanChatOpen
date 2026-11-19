@@ -1,6 +1,8 @@
 # CleanChatOpen
 
-World of Warcraft Forever addon that removes a stray character inserted into the chat input when an Open Chat hotkey is pressed. For example, if Open Chat is bound to q, opening chat leaves a "q" that must otherwise be deleted manually.
+World of Warcraft Forever addon that removes the character inserted into the chat input when an open chat key is pressed. 
+
+For example, if open chat is bound to q, opening chat leaves a "q" in the input window. With this addon, it will be automatically deleted as soon as the chat window opens.
 
 ## Install
 
