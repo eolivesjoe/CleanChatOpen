@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: CleanChatOpen
+## Notes: Prevents Open Chat keybindings from inserting unwanted characters.
+## Version: 1.0.0
+
+CleanChatOpen.lua
